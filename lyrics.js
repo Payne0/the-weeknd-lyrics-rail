@@ -11,7 +11,7 @@ const songs = [
           "Couldn't scream for help, I just slowly felt the pressure hit",
           'Moving one toe was the only form of motion left',
           "Can't breathe for air, can't breathe",
-          'Trying to remember everything that mypreacher said',
+          'Trying to remember everything that my preacher said',
           'Tryna right my wrongs, my regrets filling up my head',
           "All the times I dodged death, this can't be the way it ends, no",
         ],
@@ -762,7 +762,7 @@ const songs = [
     ],
   },
   {
-    number: 15,
+    number: 14,
     title: 'Often',
     sections: [
       {
@@ -815,7 +815,7 @@ const songs = [
     ],
   },
   {
-    number: 16,
+    number: 15,
     title: 'Given Up On Me',
     sections: [
       {
@@ -856,7 +856,7 @@ const songs = [
     ],
   },
   {
-    number: 17,
+    number: 16,
     title: 'I Was Never There',
     sections: [
       {
@@ -884,7 +884,7 @@ const songs = [
     ],
   },
   {
-    number: 18,
+    number: 17,
     title: 'The Hills',
     sections: [
       {
@@ -937,7 +937,7 @@ const songs = [
     ],
   },
   {
-    number: 19,
+    number: 18,
     title: 'Timeless',
     sections: [
       {
@@ -958,6 +958,11 @@ const songs = [
           'And I got a priest, he got a cross',
           'Get out of line, send him to God',
           'I shed a tear, pray for a loss, ooh, yeah',
+        ],
+      },
+      {
+        label: '-xo-',
+        lines: [
           'Ever since I was a kid, I been legit',
           'If I was you, I would cut up my wrist',
           'XO tatted all over her body, yeah',
@@ -966,6 +971,25 @@ const songs = [
           'You should let her go, she wanna be it',
           'Double-O tatted on her body, yeah',
           "It don't matter what they say, I'm timeless, yeah",
+        ],
+      },
+    ],
+  },
+  {
+    number: 19,
+    title: 'Kiss Land',
+    sections: [
+      {
+        label: '-xo-',
+        lines: [
+          "This ain't nothing to relate to",
+          "And this ain't nothing to relate to",
+          "And this ain't nothing to relate to",
+          "This ain't nothing to relate to",
+          'Even if you tried, you tried, you tried',
+          'You tried, you tried, you tried',
+          'You tried, you tried, you tried',
+          'You tried, you tried, you tried',
         ],
       },
     ],
@@ -1056,6 +1080,35 @@ const songs = [
   },
   {
     number: 22,
+    title: "Stargirl Interlude",
+    sections: [
+      {
+        label: '-xo-',
+        lines: [
+          "I had a vision",
+          "A vision of my nails in the kitchen",
+          "Scratchin' counter tops, I was screamin'",
+          "My back arched like a cat",
+          "My position couldn't stop, you were hittin'",
+          "And I shouldn't cry, but I love it, starboy",
+          "And I shouldn't cry, but I love it (I love it), starboy",
+          "And I shouldn't cry, but I love it, starboy",
+          "And I shouldn't cry, but I love it, starboy",
+        ],
+      },
+      {
+        label: '-xo-',
+        lines: [
+          "I just wanna see you shine 'cause I know you're a stargirl",
+          "I just wanna see you shine 'cause I know you're a stargirl",
+          "I just wanna see you shine 'cause I know you're a stargirl",
+          "I just wanna see you shine 'cause I know you're a stargirl"
+        ],
+      },
+    ],
+  },
+  {
+    number: 23,
     title: 'Out Of Time',
     sections: [
       {
@@ -1101,7 +1154,7 @@ const songs = [
     ],
   },
   {
-    number: 23,
+    number: 24,
     title: 'I Feel It Coming',
     sections: [
       {
@@ -1147,7 +1200,7 @@ const songs = [
     ],
   },
   {
-    number: 24,
+    number: 25,
     title: 'Die For You',
     sections: [
       {
@@ -1225,7 +1278,7 @@ const songs = [
     ],
   },
   {
-    number: 25,
+    number: 26,
     title: 'Is There Someone Else',
     sections: [
       {
@@ -1279,7 +1332,7 @@ const songs = [
     ],
   },
   {
-    number: 26,
+    number: 27,
     title: 'Wicked Games',
     sections: [
       {
@@ -1308,7 +1361,7 @@ const songs = [
     ],
   },
   {
-    number: 27,
+    number: 28,
     title: 'Call Out My Name',
     sections: [
       {
@@ -1379,7 +1432,7 @@ const songs = [
     ],
   },
   {
-    number: 28,
+    number: 29,
     title: 'The Absyy',
     sections: [
       {
@@ -1430,7 +1483,7 @@ const songs = [
     ],
   },
   {
-    number: 29,
+    number: 30,
     title: 'Save Your Tears',
     sections: [
       {
@@ -1471,7 +1524,7 @@ const songs = [
     ],
   },
   {
-    number: 30,
+    number: 31,
     title: 'Less Than Zero',
     sections: [
       {
@@ -1525,7 +1578,7 @@ const songs = [
     ],
   },
   {
-    number: 31,
+    number: 32,
     title: 'Blinding Lights',
     sections: [
       {
@@ -1580,7 +1633,62 @@ const songs = [
     ],
   },
   {
-    number: 32,
+    number: 33,
+    title: 'Adaptation',
+    sections: [
+      {
+        label: '-xo-',
+        lines: [
+          "When the sun comes up, you're searching for a love",
+          "So your heart won't lead you to anyone",
+          "When the sun goes down, I know what you become",
+          "You become awake, unlike the rest of us"
+        ],
+      },
+      {
+        label: '-xo-',
+        lines: [
+          'I lay my head on a thousand beds',
+          "It's been a test to see how far a man",
+          "Can go without himself",
+          "I think I lost the only piece that held it all in place",
+          "Now my madness is the only love I let myself embrace",
+          "I couldn've stayed"
+        ],
+      },
+      {
+        label: '-xo-',
+        lines: [
+          "But I chose the lie",
+          "I chose the life",
+          "Then I realized",
+          "She might've been the one",
+          "I let it go",
+          "For a little fun",
+          "I made a trade",
+          "Gave away our days",
+          "For a little fame",
+          "Now I'll never see your face",
+          "But it's okay, I adapted anyway"
+        ],
+      },
+      {
+        label: '-xo-',
+        lines: [
+          "Adapated to these models",
+          "Who's adapted to the bottle",
+          "They take it down like water",
+          "Just to burn away their sorrows",
+          "I'll stay up 'till tomorrow",
+          "Just to tear down all their morals",
+          "And all is fair in Love and War",
+          "She's pure"
+        ],
+      },
+    ],
+  },
+  {
+    number: 34,
     title: 'House Of Balloons',
     sections: [
       {
@@ -1610,7 +1718,7 @@ const songs = [
     ],
   },
   {
-    number: 33,
+    number: 35,
     title: 'Moth To A Flame',
     sections: [
       {
